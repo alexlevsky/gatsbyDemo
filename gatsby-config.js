@@ -50,6 +50,7 @@ module.exports = {
         name: `Gatsbygram`,
         short_name: `Gatsbygram`,
         start_url: `/`,
+        icon: `static/images/logo.png`,
         background_color: `#f7f7f7`,
         theme_color: `#191919`,
         display: `minimal-ui`,
